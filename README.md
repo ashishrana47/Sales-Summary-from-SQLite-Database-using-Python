@@ -1,4 +1,4 @@
-# Task 7 - Basic Sales Summary from SQLite Database
+# Task 7 -Sales Summary from SQLite Database
 
 ## 📌 Objective
 The goal of this task is to connect Python with an SQLite database, run simple SQL queries to summarize sales data, and visualize the results using matplotlib.
